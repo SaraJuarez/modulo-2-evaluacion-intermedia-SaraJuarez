@@ -38,11 +38,10 @@ function compareNumber() {
 }
 
 let sum = 0;
-// sum = intents.value;
 
 function calculateNumberofClicks() {
   sum = sum + 1;
-  //   sum = intents.value;
+  intents.value = sum;
 }
 console.log(calculateNumberofClicks());
 
