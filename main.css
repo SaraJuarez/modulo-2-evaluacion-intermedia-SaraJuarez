@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.button {
+  width: 100px;
+  margin: 10px 0 10px;
+}
+
+.intent {
+  margin: 10px 0 10px;
+}
+
+.clue {
+  margin: 10px 0 10px;
+}
